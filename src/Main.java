@@ -21,6 +21,16 @@ class PrimeiraClasse {
                 """ + anoDeLancamento;
         System.out.println(sinopseDoFilme);
 
+    // convertendo valores
+        // O java possui palavras reservadas que não podem
+        // ser utilizadas fora de suas atribuições
+        // ex. int class
+
+        int classificacao = (int) (media /2);
+        System.out.println(classificacao);
+        // deu 4 estrelas
+
+
 
 
     }
