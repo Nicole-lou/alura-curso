@@ -18,6 +18,7 @@ public class condicional {
         } else {
             System.out.println("Filme não liberado, não tem o plano plus");
         }
+       
     }
 
 }
